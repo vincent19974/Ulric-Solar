@@ -1,2 +1,0 @@
-# Ulric-Solar
-Solar Thesis
